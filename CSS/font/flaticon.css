@@ -1,0 +1,56 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 10/02/2021 04:56
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: ;
+font-style: normal;
+margin-left: ;
+}
+
+.flaticon-handshake:before { content: "\f100"; }
+.flaticon-creativity:before { content: "\f101"; }
+.flaticon-time-management:before { content: "\f102"; }
+.flaticon-talking:before { content: "\f103"; }
+.flaticon-adaptive:before { content: "\f104"; }
+.flaticon-ear:before { content: "\f105"; }
+.flaticon-empathy:before { content: "\f106"; }
+.flaticon-result:before { content: "\f107"; }
+.flaticon-team:before { content: "\f108"; }
+.flaticon-facebook-circular-logo:before { content: "\f109"; }
+.flaticon-instagram:before { content: "\f10a"; }
+.flaticon-paper-plane:before { content: "\f10b"; }
+.flaticon-email:before { content: "\f10c"; }
+.flaticon-programming:before { content: "\f10d"; }
+.flaticon-analysis:before { content: "\f10e"; }
+.flaticon-computer:before { content: "\f10f"; }
+.flaticon-advisor:before { content: "\f110"; }
+.flaticon-ui:before { content: "\f111"; }
+.flaticon-html5:before { content: "\f112"; }
+.flaticon-css-3:before { content: "\f113"; }
+.flaticon-js-file-format-symbol:before { content: "\f114"; }
+.flaticon-graph:before { content: "\f115"; }
+.flaticon-linkedin:before { content: "\f116"; }
+.flaticon-github:before { content: "\f117"; }

@@ -1,0 +1,32 @@
+.section__photo--container {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+
+.photo--paragraph{
+    font-size: 1.6rem;
+    line-height: 3rem;
+    margin-top: 30px;
+    padding: 20px 25px;
+    text-align: center;
+}
+
+.icons--container {
+    padding: 40px 20px;
+}
+
+.icons__softs--skills {
+    height: 130px;
+    font-size: 4rem;
+    margin: 15px;
+    width: 130px;
+
+}
+
+.icons__softs--skills span p {
+    font-size: 1.2rem;
+}
+
+.skills__cards--items-container {
+    padding: 0px 170px;
+}
